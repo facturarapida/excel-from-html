@@ -44,6 +44,8 @@ Verificacion del `datos.xlsx` (sheet "Ventas Q4", 7 filas x 6 columnas):
 
 Con los datos como numero, en Excel puedes hacer SUMA, PIVOT y graficos directamente. Como texto, no.
 
+El fichero `muestra-resultado.xlsx` de este repo es la salida REAL de esa ejecucion: abrela en Excel y veras los valores numericos, los filtros activos y los porcentajes como numero con formato.
+
 ## Que se automatiza (vs. manual)
 
 | Tarea | Manual | Con este repo |
